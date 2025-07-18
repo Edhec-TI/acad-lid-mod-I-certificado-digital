@@ -48,7 +48,7 @@ export const CertificateModal = ({ student, onClose }: CertificateModalProps) =>
         {/* Header fixo */}
         <div className="sticky top-0 bg-gray-800 border-b border-gray-600 p-3 md:p-4 flex justify-between items-center z-10 shrink-0">
           <h3 className="text-lg md:text-xl font-semibold text-white truncate mr-2">
-            Certificado - {student.nome}
+            Certificado Academia de Líderes Módulo I - {student.nome}
           </h3>
           <button
             onClick={onClose}

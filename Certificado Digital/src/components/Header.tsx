@@ -10,9 +10,9 @@ export const Header = ({ logoUrl, title, subtitle }: HeaderProps) => {
     <div className="text-center">
       <div className="flex justify-center mb-8">
           <img
-          src="https://edhec.com.br/wp-content/webp-express/webp-images/uploads/2023/05/capa-PR.png.webp"
+          src={logoUrl}
           alt="Logo"
-          className="logo-highlight mx-auto h-20 md:h-24 mb-4"
+          className="mx-auto h-40 md:h-44 mb-4"
           />
       </div>
       

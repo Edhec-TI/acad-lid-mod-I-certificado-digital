@@ -8,7 +8,7 @@ import { useStudentSearch } from '../hooks/useStudentSearch';
 
 // Configurações da aplicação - facilmente editáveis
 const APP_CONFIG = {
-  NOME_DO_TREINAMENTO: 'PERCEPÇÃO DE RISCO FOCO COMPORTAMENTAL',
+  NOME_DO_TREINAMENTO: 'Academia de Líderes Módulo I',
   URL_IMAGEM_LOGO: '/lovable-uploads/505f06ed-1d4e-451d-80b7-b61dc05899dc.png',
   PLACEHOLDER_BUSCA: 'Digite seu nome para buscar o certificado'
 };
